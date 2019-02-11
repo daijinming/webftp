@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<AppList>
+  <App>
+    <User>user1</User>
+    <Code>app1</Code>
+    <Title>应用A</Title>
+    <Path>E:\2018dd</Path>
+  </App>
+  <App>
+    <User>user1</User>
+    <Code>app2</Code>
+    <Title>应用B</Title>
+    <Path>E:\2018dd</Path>
+  </App>
+  <App>
+    <User>user2</User>
+    <Code>app3</Code>
+    <Title>应用C</Title>
+    <Path>E:\2018dd</Path>
+  </App>
+  <App>
+    <User>user2</User>
+    <Code>app4</Code>
+    <Title>应用D</Title>
+    <Path>E:\2018dd</Path>
+  </App>
+</AppList>
